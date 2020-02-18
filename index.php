@@ -11,7 +11,7 @@
 <div style="background-image: url('https://umdearborn.edu/sites/default/files/footer-logo/cob-footer.png');background-repeat: no-repeat;background-size: cover;">	
 	<body>
 		<h3> Welcome to Mohammed Al-Ziyadi's Homepage!</h3>
-		<img src = "ziyadi.JPG" width = "120" height = "150" alt = "ziyadi">
+		<img src = "ziyadi.png" width = "120" height = "150" alt = "ziyadi">
 		<p><b> About Me: </b></p>
 		<p> My name is Mohammed Al-Ziyadi and I am an MBA/MIS student at the University of Michigan - Dearborn. 
 			<br>I am currently a self-employed IT Project Manager, with serveral industrial experiences that complement my skills!</br>
