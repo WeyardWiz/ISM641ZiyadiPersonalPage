@@ -1,0 +1,64 @@
+body 
+{
+	font-family : "Courier New", Courier, "Andale Mono", Monospace; 
+	background-color : LightBlue; color : black; font-size : 14pt;
+}
+
+p {
+    font-family: "Times New Roman";
+}
+
+a:link 
+{
+	color : purple; font-weight : normal;
+}
+
+a:hover 
+{
+	text-decoration : blink; 
+	background : silver;
+}
+
+a:active 
+{
+	color : blue; font-weight : bolder; 
+	text-decoration : underline;
+}
+
+table 
+{
+    border-collapse: collapse;
+}
+
+table, th, td 
+{
+    border: 2px solid black;
+}
+
+th {
+    background-color: RoyalBlue;
+    color: Gold;
+}
+
+td
+{
+	padding-left: 22px;
+	background-color: MediumTurquoise;
+    color: Black;
+}
+
+ol
+{
+    margin: 20px;
+}
+
+ul
+{
+    list-style-type: circle;
+    margin: 20px;
+}
+
+
+
+
+		
